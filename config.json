@@ -1,0 +1,12 @@
+{
+    "ip": "isekaiwanani.ploudos.me",
+    "port": "",
+    "password": "",
+    "prefix": "",
+    "login-enabled": "false",
+    "register-cmd": "/login kartikopp kartikopp",
+    "login-cmd": "/login kartikopp",
+    "loginmsg": "",
+    "web": "true"
+    
+}
